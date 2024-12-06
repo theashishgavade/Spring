@@ -1,1 +1,1 @@
-# 🗒️ **[--> Click Here to Access The notes <--](https://docs.google.com/document/d/1x-mPx0S-OE0EgLSt1RJiMjuZrniykM-nqGZxWRVngNk/edit?usp=sharing)** 
+# 🗒️ **[--> Click Here to Access The notes <--](https://1drv.ms/w/c/6a344b5c3daf070e/EauADpFTFkNCibG7G_fbGUgB9ZzI4ePTsRQWoz-LtgVsQA?e=6mQMtV)** 
