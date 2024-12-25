@@ -50,6 +50,10 @@ Welcome to the **Spring Boot Daily Notes & Code** repository! 📝✨ This repo 
 
 ---
 
+[![Hits](https://hits.sh/github.com/theashishgavade/Spring.svg?style=for-the-badge&label=Page%20Hits)](https://hits.sh/github.com/theashishgavade/Spring/)
+
+
+
 ## 🌟 **Contributing**  
 Feel free to raise issues or submit pull requests! 🤝 Contributions are always welcome.  
 
@@ -58,4 +62,6 @@ Feel free to raise issues or submit pull requests! 🤝 Contributions are always
 💡 **Pro Tip**: Bookmark this repository for daily reference and learning!  
 
 Happy Coding! 💻✨
+
+
 ##
